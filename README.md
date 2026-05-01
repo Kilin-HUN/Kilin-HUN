@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Im a student at BME studing computer engineering.
 <!--
 **Kilin-HUN/Kilin-HUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
